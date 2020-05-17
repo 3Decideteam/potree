@@ -172,6 +172,7 @@ export function loadPointCloud(path, name, callback){
 };
 
 
+/*
 // add selectgroup
 (function($){
 	$.fn.extend({
@@ -247,3 +248,4 @@ export function loadPointCloud(path, name, callback){
 		}
 	});
 })(jQuery);
+*/

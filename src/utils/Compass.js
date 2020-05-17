@@ -6,6 +6,7 @@ export class Compass{
 	constructor(viewer){
 		this.viewer = viewer;
 
+		/*
 		this.visible = false;
 		this.dom = this.createElement();
 
@@ -33,6 +34,7 @@ export class Compass{
 		renderArea.append(this.dom);
 
 		this.setVisible(this.visible);
+		*/
 	}
 
 	setVisible(visible){
